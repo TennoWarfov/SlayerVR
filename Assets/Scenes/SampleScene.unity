@@ -840,7 +840,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &748379694
 GameObject:
@@ -1214,7 +1214,7 @@ Transform:
   - {fileID: 832575519}
   - {fileID: 454867392}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &945506606
 GameObject:
@@ -1989,7 +1989,7 @@ Transform:
   - {fileID: 967795985}
   - {fileID: 1567169773}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!153 &1253377463
 ConfigurableJoint:
@@ -3016,7 +3016,7 @@ Transform:
   - {fileID: 1135518567}
   - {fileID: 603118802}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1753091498
 Animator:
